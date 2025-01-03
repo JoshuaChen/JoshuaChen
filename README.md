@@ -24,3 +24,7 @@
 <p align="center">
   <i>"Knowledge without practice is useless, and practice without knowledge is dangerous."</i>  
 </p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JoshuaChen)

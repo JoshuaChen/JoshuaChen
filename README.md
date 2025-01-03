@@ -1,16 +1,26 @@
-## Hi there 👋
+## About Me 🌟  
 
-<!--
-**JoshuaChen/JoshuaChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌏 **Location**: Guangzhou, Guangdong, China  
+- 👨‍💻 **Expertise**: Java (Primary Language), Full-Stack Development, IT Quality Management, DevOps, and SRE  
+- 🏆 **Experience**: Over 20 years in software engineering, previously founded my own company  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JoshuaChen&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaChen&theme=radical" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <i>"Knowledge without practice is useless, and practice without knowledge is dangerous."</i>  
+</p>
